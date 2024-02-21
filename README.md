@@ -1,4 +1,4 @@
-# Teoria de algoritmos
+# Teoria de algoritmos - curso de verano 2023-2024
 
 Bienvenidos a mi repo de TDA! (FIUBA)
 
