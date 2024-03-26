@@ -2,7 +2,7 @@
 
 Bienvenidos a mi repo de TDA! (FIUBA)
 
-### PDF
+### [PDF](https://github.com/maxogod/Teoria-de-algoritmos/blob/main/TDA.pdf)
 
 En el pdf TDA van a encontrar la version pdf de 120 paginas de mis resoluciones a los ejercicios de la guia de victor pobdereski (que es la misma que se uso en la catedra de buchwald hasta el momento de mi cursada)
 
